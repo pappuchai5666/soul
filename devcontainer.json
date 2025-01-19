@@ -1,7 +1,7 @@
 {
   "name": "My Codespace",
   "image": "ubuntu:22.04",
-  "postStartCommand": "python3 /workspaces/soulcracks/soul.py",
+  "postStartCommand": "python3 /workspaces/soul/dark.py",
   "customizations": {
     "vscode": {
       "settings": {
