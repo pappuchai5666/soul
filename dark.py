@@ -420,7 +420,7 @@ def get_status(active_inactive,):
     # Create the status message with dynamic subscription status
     server_status = "🟢 SERVERS AVAILABLE"  # Automatically set server status to AVAILABLE
     status_message = (
-        "⚡️ 𝗗𝗔𝗥𝗞⋆𝗗𝗗𝗢𝗦⋆𝗦𝗧𝗔𝗧𝗨𝗦 ⚡️\n"
+        "⚡️ 𝗣𝗥𝗜𝗡𝗖𝗘⋆𝗗𝗗𝗢𝗦⋆𝗦𝗧𝗔𝗧𝗨𝗦 ⚡️\n"
         "━━━━━━━━━━━━━━━\n"
         f"👤 𝗨𝘀𝗲𝗿's💎 𝗦𝘂𝗯𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻:\n"
         f"• Status: ❌ {active_inactive}\n"
@@ -430,7 +430,7 @@ def get_status(active_inactive,):
         "• Ready for attacks\n\n"
         "⏳ 𝗖𝗼𝗼𝗹𝗱𝗼𝘄𝗻 𝗦𝘁𝗮𝘁𝘂𝘀:\n"
         "• Status: 🟢 Ready\n"
-        "• Duration: 5 minutes per attack\n\n"
+        "• Duration: 1 minutes per attack\n\n"
         "⏰ 𝗟𝗮𝘀𝘁 𝗨𝗽𝗱𝗮𝘁𝗲𝗱:\n"
         f"• {current_time}\n"  # Insert current time here
         "━━━━━━━━━━━━━━━"
