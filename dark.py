@@ -3,7 +3,6 @@ import random
 import string
 import logging
 import certifi
-from telegram import Update
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup
 from datetime import datetime
 from telegram.ext import Application, CommandHandler, CallbackContext, filters, MessageHandler
